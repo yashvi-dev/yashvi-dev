@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashvi</h1>
 <h3 align="center">Full Stack Developer | Passionate about Web3, Backend & Building Scalable Products</h3>
 
-<p align="center">
-  <a href="https://github.com/yashvi-dev">
-    <img src="https://komarev.com/ghpvc/?username=yashvi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-dev" />
-  </a>
-</p>
-
 ---
 
 ### 💼 About Me
