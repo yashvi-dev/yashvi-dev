@@ -5,7 +5,7 @@
 
 ### 💼 About Me
 
-I’m a final-year B.Tech (Information Technology) student at Manipal University Jaipur with a deep passion for full stack development, Web3 innovation, and solving real-world problems with tech.
+I’m a final-year B.Tech (Information Technology) student with a deep passion for full stack development, Web3 innovation, and solving real-world problems with tech.
 
 Currently building projects that blend AI and blockchain with great user experience. Always open to learning and collaborating.
 
